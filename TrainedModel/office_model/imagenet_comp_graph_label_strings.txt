@@ -1,0 +1,7 @@
+Monitor
+Mouse
+Laptop
+Pen
+Keyboard
+Notebook
+

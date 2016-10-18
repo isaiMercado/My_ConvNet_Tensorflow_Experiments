@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/fslhome/misaie/tensorflow/convolutional_network/program.py", line 5, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
